@@ -1,0 +1,4 @@
+user: admin pass: admin
+user: manager1 / manager2 pass: manager1 / manager 2
+iser: user1 - user40 pass: user1 - user40
+Менять роли и создавать новые можно в ser_role.bat
